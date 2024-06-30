@@ -2,8 +2,12 @@
 
 Projectile navigation library
 
-## Installation
+## Features
+* [x] Simple seek steering
 
-```console
-pip install pnavpy
-```
+## Demonstrations
+
+### Seek steering behvaiour
+![Example 1](./docs/simple-seek-steering-1.mp4)
+
+![Example 2](./docs/simple-seek-steering-2.mp4)
