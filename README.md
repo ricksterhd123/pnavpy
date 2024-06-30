@@ -8,6 +8,5 @@ Projectile navigation library
 ## Demonstrations
 
 ### Seek steering behvaiour
-![Example 1](./docs/simple-seek-steering-1.mp4)
-
-![Example 2](./docs/simple-seek-steering-2.mp4)
+![Example 1](./docs/simple-seek-steering-1.gif)
+![Example 2](./docs/simple-seek-steering-2.gif)
