@@ -1,2 +1,2 @@
 from .particle import Particle
-from .projectile.projectile import Projectile
+from .projectile.projectile import Projectile, SimpleSeekProjectile
