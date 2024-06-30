@@ -23,7 +23,7 @@ class Particle:
 
     def get_velocity(self):
         return self._velocity
-    
+
     def set_acceleration(self, acceleration = np.array([0.0, 0.0, 0.0])):
         self._acceleration = acceleration
 
